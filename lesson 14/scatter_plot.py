@@ -1,5 +1,5 @@
+from matplotlib import pyplot as plt
 import pandas as pd
-import matplotlib.pyplot as plt
 
 # Read the dataset from a CSV file into a DataFrame
 df = pd.read_csv('avgQperCountry.csv')
